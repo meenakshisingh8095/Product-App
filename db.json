@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand_name": "Himalaya",
+      "product_name": "Lotion",
+      "quantity": 4,
+      "discount": 10,
+      "MRP": 249,
+      "offer_text": "Great Deal for new Holi"
+    },
+    {
+      "id": 2,
+      "brand_name": "Himalaya",
+      "product_name": "Shampoo",
+      "quantity": 6,
+      "discount": 10,
+      "MRP": 449,
+      "offer_text": "Great Deal for new Holi"
+    },
+    {
+      "id": 3,
+      "brand_name": "Bajaj",
+      "product_name": "Oil",
+      "quantity": 8,
+      "discount": 10,
+      "MRP": 149,
+      "offer_text": "Great Deal for new Holi"
+    }
+  ]
+}
